@@ -1,0 +1,192 @@
+
+
+
+.nav_barr a {
+    font-family: 'Azeret Mono', monospace;
+    font-weight: 700;
+    font-size: 20px;
+}
+.nav_barr {
+    margin-top: 24px;
+    margin-bottom: 20px;
+}
+.ul_left li {
+    margin-right: 10px;
+}
+.hed_input {
+    border-color: #cec1c1;
+    border-radius: 20px;
+    width: 220px;
+    margin-left: 10px;
+}
+.car_img {
+    margin-right: 10px;
+}
+
+
+.menuuu {
+    color: black;
+}
+
+.heder__title {
+    background-color: #fff;
+}
+
+.serclll {
+    border: 1px solid #8e8484;
+}
+
+.ppp {
+    margin-right: 20px;
+}
+
+.menuuu1 {
+    color: black;
+}
+.loggo {
+    margin: 10px 330px 0;
+}
+
+.mmm {
+    margin-right: 15px;
+}
+
+.heder_uo {
+    grid-template-columns: repeat(2, 1fr);
+    
+}
+
+.ffjj {
+    background-color: #ff0000;
+    height: 30px;
+
+}
+
+h1 {
+    font-family: 'Azeret Mono', monospace;
+    font-size: 125px;
+    padding-top: 50px;
+    padding-left: 174px;
+    font-weight: 700;
+}
+
+h2 {
+    font-family: 'Azeret Mono', monospace;
+    font-size: 125px;
+    font-weight: 700;
+    padding-top: 50px;
+    margin-top: 125px;
+}
+h3 {
+    font-family: 'Azeret Mono', monospace;
+    font-size: 50px;
+    font-weight: 700;  
+}
+p {
+    font-family: 'Azeret Mono', monospace;
+    font-size: 20px; 
+    font-weight: 700;
+    line-height: 42px;
+}
+
+
+.title_but {
+    font-family: 'Azeret Mono', monospace;
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    border-radius: 25px;
+    padding: 15px;
+    margin-bottom: 51px;
+}
+.galery_but {
+    font-family: 'Azeret Mono', monospace;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    border-radius: 25px;
+    padding: 10px 15px;
+    margin: 40px auto;
+     
+}
+.pum-pum {
+    background-color: #eae2e2;
+    border-radius: 30px;
+    padding-top: 35px;
+    margin-top: 50px;
+    margin-bottom: 200px;
+}
+.about_p {
+    padding-bottom: 50px;
+}
+.best_img img {
+ width: 300px;
+}
+.best_img {
+    margin-bottom: 150px;
+}
+.galery {
+    padding-top: 200px;
+    margin-bottom: 200px;
+}
+.card_galery {
+    height: 750px;
+}
+.galery_str {
+   padding-left: 10px;
+}
+
+
+.solution_row {
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+h4 {
+    font-family: 'Azeret Mono', monospace;
+    font-size: 36px;
+    font-weight: 700;
+    padding-bottom: 100px;    
+}
+
+.footer_s6 {
+    background-color: #E0E0E0;
+}
+.footer_line {
+  width: 600px;
+  height: 3px;
+  background-color: #727070;
+  margin: 0 0 50px 30px;
+}
+.futer_gray_h4 {
+    font-size: 33px;
+    padding: 0 0 30px 10px;
+}
+
+.futer_gray_p {
+    font-size: 15px;
+    font-weight: 400;
+    padding-left: 30px;
+    margin: 0;
+}
+.line_long {
+    width: 100%;
+  height: 3px;
+  background-color: #727070;
+}
+
+.line_long {
+  margin-top: 100px;
+}
+h5 {
+    font-family: 'Azeret Mono', monospace;
+    font-size: 22px;
+    font-weight: 700; 
+    margin-top: 88px;
+}
+.email_f { 
+   margin-top: -30px;
+}
